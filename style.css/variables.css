@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+:root {
+    --font-family: 'EB Garamond', serif;
+    --font-size-s: .8rem;
+    --font-size-m: 2.5rem;
+    --font-size-l: 3.5rem;
+
+    
+    --border-color: rgb(206, 204, 204);
+    
+
+    --margin-s: 1rem;
+    --margin-m: 2rem;
+    --margin-l: 3rem;
+    --margin-xl: 5rem;
+    --margin-xxl: 10rem;
+    
+    
+    --padding-s: 1rem;
+    --padding-m: 2rem;
+    --padding-l: 3rem;
+    --padding-xl: 5rem;
+}
